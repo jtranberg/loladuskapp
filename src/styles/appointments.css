@@ -1,0 +1,47 @@
+/* *{
+    border-radius: 8px;
+ } */
+ /* body
+{
+    padding: 0;
+    margin: 0;
+    margin-top: 4rem;
+    width: 100vw; 
+    height: 100vh; 
+    background: #030568;
+    margin-top: 2.5rem; 
+    background-image: url(/src/img/stars.png);
+    background-size: cover;
+    overflow: hidden;
+    
+   }  */
+   
+
+/* .banner
+{
+    display: flex;
+    font-family: myFont;
+    position: absolute;
+    top: 0;
+    margin-top: 0;
+    
+    width: 99vw;
+    justify-content: center;
+    font-style: italic;
+    color: rgb(10, 11, 99);
+    background: linear-gradient(#ffffffbb, #b38507e8);
+    font-size: 2rem;
+    border: 2px solid #f3a412;
+    margin-bottom: .5rem;
+    box-shadow: 0 0 15px #fff;
+    z-index: 2;
+    
+} */
+
+/* .widget
+{
+margin-top: 4rem;
+
+
+
+} */

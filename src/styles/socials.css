@@ -1,0 +1,129 @@
+.youtube 
+
+{
+    margin: auto;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    color: red;
+    height: 5rem;
+    width: 5rem;
+    background: rgb(255, 255, 255, 0.1);
+    border-radius: 8px;
+    box-shadow: 0 0 10px #fff;
+    background-image: url(../img/youtube.png);
+    background-size: contain;
+
+
+}
+.facebook 
+
+{
+    margin: auto;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    color: red;
+    height: 5rem;
+    width: 5rem;
+    background: rgb(255, 255, 255, 0.1);
+    border-radius: 8px;
+    box-shadow: 0 0 10px #fff;
+    background-image: url(../img/facebook.png);
+    background-size: contain;
+
+}
+.instagram 
+
+{
+    margin: auto;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    color: red;
+    height: 5rem;
+    width: 5rem;
+    background: rgb(255, 255, 255, 0.1);
+    border-radius: 8px;
+    box-shadow: 0 0 10px #fff;
+    background-image: url(../img/instagram.jpeg);
+    background-size: contain;
+}
+
+.rumble
+
+{
+    margin: auto;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    color: red;
+    height: 5rem;
+    width: 5rem;
+    background: rgb(255, 255, 255, 0.1);
+    border-radius: 8px;
+    box-shadow: 0 0 10px #fff;
+    background-image: url(../img/rumble.jpeg);
+    background-size: contain;
+}
+
+.discord
+
+{
+    margin: auto;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    color: red;
+    height: 5rem;
+    width: 5rem;
+    background: rgb(255, 255, 255, 0.1);
+    border-radius: 8px;
+    box-shadow: 0 0 10px #fff;
+    background-image: url(../img//discord.png);
+    background-size: contain;
+}
+.twitter
+{
+    margin: auto;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    
+    height: 5rem;
+    width: 5rem;
+    background: rgb(255, 255, 255, 0.1);
+    border-radius: 8px;
+    box-shadow: 0 0 10px #fff;
+    background-image: url(/src/img/x.png);
+    background-size: contain;
+}
+.socials
+{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 4rem;
+   gap: 2rem;
+   height: 7rem;
+    box-shadow: 0 0 10px #fff;
+    border-radius: 8px;
+    top: 150px;
+}
+.paragraph
+{
+    position: relative;
+   
+    top: 300px;
+    padding: 15px;
+    color: #fff;
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    background: rgba(1, 18, 34, 0.5);
+    box-shadow: 0 0 15px #fff;
+    font-size: 1.2rem;
+    border-radius: 8px;
+}

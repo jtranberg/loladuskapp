@@ -1,0 +1,850 @@
+[
+    {
+      "id": 40,
+      "name": "The Fool",
+      "card": "/randomImages/40.jpg",
+      "info": [
+        "Key Words: New beginnings, optimism, faith.",
+        "The Fool represents unlimited potential and the beginning of a new journey.",
+        "It generally signifies innocence, spontaneity, and a free spirit."
+      ]
+    },
+    {
+      "id": 50,
+      "name": "The Magus",
+      "card": "/randomImages/50.jpg",
+      "info": [
+        "Key Words: Manifestation, power, skill.",
+        "The Magician symbolizes the ability to bring ideas to reality.",
+        "It generally indicates action, resourcefulness, and confidence."
+      ]
+    },
+    {
+      "id": 11,
+      "name": "The High Priestess",
+      "card": "/randomImages/11.jpg",
+      "info": [
+        "Key Words: Intuition, mystery, subconscious.",
+        "The High Priestess represents wisdom and the inner voice.",
+        "It generally signifies hidden knowledge, spiritual insight, and trusting intuition."
+      ]
+    },
+    {
+      "id": 1,
+      "name": "The Empress",
+      "card": "/randomImages/1.jpg",
+      "info": [
+        "Key Words: Scorpio; death and resurrection;",
+        "transformation: scorpion, the card Death does not mean physical death.",
+        "It generally points to radical external transformation."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "The Magus",
+      "card": "/randomImages/2.jpg",
+      "info": [
+        "Key Words: Manifestation, power, skill.",
+        "The Magician symbolizes the ability to bring ideas to reality.",
+        "It generally indicates action, resourcefulness, and confidence."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "The High Priestess",
+      "card": "/randomImages/3.jpg",
+      "info": [
+        "Key Words: Intuition, mystery, subconscious.",
+        "The High Priestess represents wisdom and the inner voice.",
+        "It generally signifies hidden knowledge, spiritual insight, and trusting intuition."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "The Empress",
+      "card": "/randomImages/4.jpg",
+      "info": [
+        "Key Words: Scorpio; death and resurrection;",
+        "transformation: scorpion, the card Death does not mean physical death.",
+        "It generally points to radical external transformation."
+      ]
+    },
+    {
+      "id": 36,
+      "name": "The Emperor",
+      "card": "/randomImages/36.jpg",
+      "info": [
+        "Key Words: Authority, structure, control.",
+        "The Emperor symbolizes leadership, stability, and protection.",
+        "It generally represents order, discipline, and power."
+      ]
+    },
+    {
+      "id": 29,
+      "name": "The Hierophant",
+      "card": "/randomImages/29.jpg",
+      "info": [
+        "Key Words: Tradition, conformity, spirituality.",
+        "The Hierophant signifies religious beliefs, rituals, and conventional values.",
+        "It generally indicates a need for guidance, learning, and wisdom."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "The Lovers",
+      "card": "/randomImages/2.jpg",
+      "info": [
+        "Key Words: Love, harmony, relationships.",
+        "The Lovers represent unions, partnerships, and dualities.",
+        "It generally signifies choice, trust, and alignment of values."
+      ]
+    },
+    {
+      "id": 55,
+      "name": "The Chariot",
+      "card": "/randomImages/55.jpg",
+      "info": [
+        "Key Words: Victory, willpower, determination.",
+        "The Chariot symbolizes control, ambition, and success.",
+        "It generally represents overcoming obstacles and achieving goals."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Adjustment",
+      "card": "/randomImages/9.jpg",
+      "info": [
+        "Key Words: Justice, balance, fairness.",
+        "Adjustment represents truth, karma, and accountability.",
+        "It generally signifies making fair decisions and finding equilibrium."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "The Hermit",
+      "card": "/randomImages/5.jpg",
+      "info": [
+        "Key Words: Solitude, introspection, inner guidance.",
+        "The Hermit symbolizes wisdom, reflection, and seeking truth.",
+        "It generally indicates a need for personal space, contemplation, and spiritual insight."
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Fortune",
+      "card": "/randomImages/51.jpg",
+      "info": [
+        "Key Words: Luck, fate, change.",
+        "Fortune represents cycles, destiny, and turning points.",
+        "It generally signifies a shift in circumstances, opportunities, or challenges."
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Lust",
+      "card": "/randomImages/33.jpg",
+      "info": [
+        "Key Words: Passion, strength, courage.",
+        "Lust symbolizes desire, vitality, and creativity.",
+        "It generally indicates a powerful force driving transformation and growth."
+      ]
+    },
+    {
+      "id": 23,
+      "name": "The Hanged Man",
+      "card": "/randomImages/23.jpg",
+      "info": [
+        "Key Words: Surrender, letting go, perspective.",
+        "The Hanged Man represents sacrifice, patience, and new viewpoints.",
+        "It generally signifies a period of waiting, transformation, and enlightenment."
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Death",
+      "card": "/randomImages/73.jpg",
+      "info": [
+        "Key Words: Endings, transformation, transition.",
+        "Death symbolizes change, renewal, and letting go of the old.",
+        "It generally represents a major shift, rebirth, or new beginning."
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Art",
+      "card": "/randomImages/48.jpg",
+      "info": [
+        "Key Words: Integration, balance, harmony.",
+        "Art represents the blending of opposites and creation.",
+        "It generally signifies the need for patience, alchemy, and unity."
+      ]
+    },
+    {
+      "id": 58,
+      "name": "The Devil",
+      "card": "/randomImages/58.jpg",
+      "info": [
+        "Key Words: Bondage, materialism, temptation.",
+        "The Devil symbolizes addiction, control, and attachment.",
+        "It generally indicates feelings of being trapped, fear, and facing one’s shadow."
+      ]
+    },
+    {
+      "id": 61,
+      "name": "The Tower",
+      "card": "/randomImages/61.jpg",
+      "info": [
+        "Key Words: Upheaval, destruction, revelation.",
+        "The Tower represents sudden change, chaos, and breaking down old structures.",
+        "It generally signifies a wake-up call, liberation, and transformation."
+      ]
+    },
+    {
+      "id": 47,
+      "name": "The Star",
+      "card": "/randomImages/47.jpg",
+      "info": [
+        "Key Words: Hope, inspiration, serenity.",
+        "The Star symbolizes guidance, renewal, and spiritual clarity.",
+        "It generally indicates healing, peace, and the manifestation of dreams."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "The Moon",
+      "card": "/randomImages/8.jpg",
+      "info": [
+        "Key Words: Illusion, fear, intuition.",
+        "The Moon represents the unconscious, mystery, and the unknown.",
+        "It generally signifies confusion, dreams, and the need to trust intuition."
+      ]
+    },
+    {
+      "id": 22,
+      "name": "The Sun",
+      "card": "/randomImages/22.jpg",
+      "info": [
+        "Key Words: Joy, success, vitality.",
+        "The Sun symbolizes clarity, enlightenment, and energy.",
+        "It generally represents positivity, achievement, and growth."
+      ]
+    },
+    {
+      "id": 12,
+      "name": "The Aeon",
+      "card": "/randomImages/12.jpg",
+      "info": [
+        "Key Words: Judgement, awakening, renewal.",
+        "The Aeon represents evaluation, transformation, and higher understanding.",
+        "It generally signifies a new phase, decisions, and spiritual awakening."
+      ]
+    },
+    {
+      "id": 34,
+      "name": "The Universe",
+      "card": "/randomImages/34.jpg",
+      "info": [
+        "Key Words: Completion, wholeness, fulfillment.",
+        "The Universe signifies the end of a cycle and the beginning of another.",
+        "It generally represents achievement, harmony, and enlightenment."
+      ]
+    },
+ 
+    {
+      "id": 78,
+      "name": "Ace of Wands",
+      "card": "/randomImages/78.jpg",
+      "info": [
+        "Key Words: Inspiration, creation, potential.",
+        "The Ace of Wands represents the spark of a new idea or venture.",
+        "It generally signifies passion, enthusiasm, and the beginning of a creative project."
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Two of Wands",
+      "card": "/randomImages/54.jpg",
+      "info": [
+        "Key Words: Planning, decision, direction.",
+        "The Two of Wands symbolizes choices, strategy, and contemplation.",
+        "It generally indicates the need to plan ahead and explore new possibilities."
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Three of Wands",
+      "card": "/randomImages/45.jpg",
+      "info": [
+        "Key Words: Expansion, foresight, opportunity.",
+        "The Three of Wands represents growth, progress, and long-term vision.",
+        "It generally signifies the anticipation of success and broadening horizons."
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Four of Wands",
+      "card": "/randomImages/41.jpg",
+      "info": [
+        "Key Words: Celebration, stability, foundation.",
+        "The Four of Wands symbolizes harmony, joy, and a solid foundation.",
+        "It generally indicates community, homecoming, and completion."
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Five of Wands",
+      "card": "/randomImages/66.jpg",
+      "info": [
+        "Key Words: Conflict, competition, struggle.",
+        "The Five of Wands represents challenges, rivalry, and disagreements.",
+        "It generally signifies tension, obstacles, and the need for resolution."
+      ]
+    },
+    
+    {
+      "id": 16,
+      "name": "Ace of Cups",
+      "card": "/randomImages/16.jpg",
+      "info": [
+        "Key Words: Love, emotions, beginnings.",
+        "The Ace of Cups represents emotional fulfillment, new relationships, and compassion.",
+        "It generally signifies joy, fertility, and spiritual growth."
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Two of Cups",
+      "card": "/randomImages/77.jpg",
+      "info": [
+        "Key Words: Partnership, harmony, attraction.",
+        "The Two of Cups symbolizes unity, balance, and mutual respect.",
+        "It generally indicates the beginning of a meaningful relationship or collaboration."
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Three of Cups",
+      "card": "/randomImages/42.jpg",
+      "info": [
+        "Key Words: Celebration, friendship, joy.",
+        "The Three of Cups represents community, connection, and shared happiness.",
+        "It generally signifies gatherings, support, and emotional fulfillment."
+      ]
+    },
+    
+    {
+      "id": 6,
+      "name": "Ace of Swords",
+      "card": "/randomImages/6.jpg",
+      "info": [
+        "Key Words: Clarity, truth, new ideas.",
+        "The Ace of Swords represents mental clarity, breakthroughs, and insight.",
+        "It generally signifies decision-making, focus, and intellectual power."
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Two of Swords",
+      "card": "/randomImages/71.jpg",
+      "info": [
+        "Key Words: Indecision, stalemate, choices.",
+        "The Two of Swords symbolizes difficult choices, balance, and avoidance.",
+        "It generally indicates the need for compromise and clear thinking."
+      ]
+    },
+    
+    {
+      "id": 76,
+      "name": "Ace of Disks",
+      "card": "/randomImages/76.jpg",
+      "info": [
+        "Key Words: Prosperity, opportunity, abundance.",
+        "The Ace of Disks represents financial new beginnings and tangible results.",
+        "It generally signifies security, potential, and material success."
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Two of Disks",
+      "card": "/randomImages/68.jpg",
+      "info": [
+        "Key Words: Balance, adaptability, change.",
+        "The Two of Disks symbolizes flexibility, juggling priorities, and change.",
+        "It generally indicates the need to find balance and manage multiple aspects of life."
+      ]
+    },
+    
+    {
+      "id": 57,
+      "name": "Six of Wands",
+      "card": "/randomImages/57.jpg",
+      "info": [
+        "Key Words: Victory, recognition, success.",
+        "The Six of Wands represents triumph, acclaim, and public recognition.",
+        "It generally signifies achievement, pride, and leadership."
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Seven of Wands",
+      "card": "/randomImages/21.jpg",
+      "info": [
+        "Key Words: Defense, perseverance, challenge.",
+        "The Seven of Wands symbolizes standing your ground and facing adversity.",
+        "It generally indicates courage, determination, and overcoming obstacles."
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Eight of Wands",
+      "card": "/randomImages/20.jpg",
+      "info": [
+        "Key Words: Speed, movement, action.",
+        "The Eight of Wands represents rapid progress, communication, and momentum.",
+        "It generally signifies swift decisions, travel, and quick developments."
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Nine of Wands",
+      "card": "/randomImages/14.jpg",
+      "info": [
+        "Key Words: Resilience, endurance, persistence.",
+        "The Nine of Wands symbolizes strength in the face of adversity and perseverance.",
+        "It generally indicates a final challenge before success, and staying strong."
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Ten of Wands",
+      "card": "/randomImages/31.jpg",
+      "info": [
+        "Key Words: Burden, responsibility, hard work.",
+        "The Ten of Wands represents carrying a heavy load and the need for delegation.",
+        "It generally signifies stress, exhaustion, and the final push towards completion."
+      ]
+    },
+  
+    {
+      "id": 15,
+      "name": "Four of Cups",
+      "card": "/randomImages/15.jpg",
+      "info": [
+        "Key Words: Apathy, contemplation, reevaluation.",
+        "The Four of Cups represents introspection, discontent, and missed opportunities.",
+        "It generally signifies the need for reassessment and finding motivation."
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Five of Cups",
+      "card": "/randomImages/38.jpg",
+      "info": [
+        "Key Words: Loss, regret, disappointment.",
+        "The Five of Cups symbolizes grief, sorrow, and focusing on the negative.",
+        "It generally indicates the need to move on and find hope in what remains."
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Six of Cups",
+      "card": "/randomImages/60.jpg",
+      "info": [
+        "Key Words: Nostalgia, memories, innocence.",
+        "The Six of Cups represents the past, childhood, and revisiting old times.",
+        "It generally signifies reconnecting with joy, innocence, and harmony."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Seven of Cups",
+      "card": "/randomImages/9.jpg",
+      "info": [
+        "Key Words: Fantasy, illusion, choices.",
+        "The Seven of Cups symbolizes dreams, imagination, and overwhelming options.",
+        "It generally indicates the need for clarity and focusing on what’s real."
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Eight of Cups",
+      "card": "/randomImages/37.jpg",
+      "info": [
+        "Key Words: Abandonment, withdrawal, letting go.",
+        "The Eight of Cups represents walking away from unfulfilling situations.",
+        "It generally signifies the need for emotional release and seeking deeper meaning."
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Nine of Cups",
+      "card": "/randomImages/26.jpg",
+      "info": [
+        "Key Words: Contentment, satisfaction, happiness.",
+        "The Nine of Cups symbolizes emotional fulfillment and personal joy.",
+        "It generally indicates wishes coming true, success, and well-being."
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Ten of Cups",
+      "card": "/randomImages/25.jpg",
+      "info": [
+        "Key Words: Harmony, fulfillment, divine love.",
+        "The Ten of Cups represents complete happiness, family unity, and emotional bliss.",
+        "It generally signifies lasting success, joy, and deep emotional connections."
+      ]
+    },
+  
+    {
+      "id": 72,
+      "name": "Three of Swords",
+      "card": "/randomImages/72.jpg",
+      "info": [
+        "Key Words: Heartbreak, sorrow, betrayal.",
+        "The Three of Swords represents pain, emotional distress, and difficult truths.",
+        "It generally signifies the need to face heartache, heal, and move forward."
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Four of Swords",
+      "card": "/randomImages/52.jpg",
+      "info": [
+        "Key Words: Rest, recovery, contemplation.",
+        "The Four of Swords symbolizes taking time out to heal and regroup.",
+        "It generally indicates the need for rest, meditation, and spiritual retreat."
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Five of Swords",
+      "card": "/randomImages/65.jpg",
+      "info": [
+        "Key Words: Conflict, defeat, dishonor.",
+        "The Five of Swords represents tension, loss, and self-sabotage.",
+        "It generally signifies the need to let go of conflict and reassess goals."
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Six of Swords",
+      "card": "/randomImages/63.jpg",
+      "info": [
+        "Key Words: Transition, recovery, moving on.",
+        "The Six of Swords symbolizes a journey towards healing and leaving troubles behind.",
+        "It generally indicates progress, change, and moving forward from difficulties."
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Seven of Swords",
+      "card": "/randomImages/67.jpg",
+      "info": [
+        "Key Words: Deception, strategy, cunning.",
+        "The Seven of Swords represents trickery, betrayal, and secrecy.",
+        "It generally signifies the need for caution and careful planning."
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Eight of Swords",
+      "card": "/randomImages/10.jpg",
+      "info": [
+        "Key Words: Restriction, fear, helplessness.",
+        "The Eight of Swords symbolizes feeling trapped by circumstances and fear.",
+        "It generally indicates the need to confront limiting beliefs and find freedom."
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Nine of Swords",
+      "card": "/randomImages/19.jpg",
+      "info": [
+        "Key Words: Anxiety, worry, nightmares.",
+        "The Nine of Swords represents stress, mental anguish, and sleepless nights.",
+        "It generally signifies the need to address fears and seek relief from anxiety."
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Ten of Swords",
+      "card": "/randomImages/18.jpg",
+      "info": [
+        "Key Words: Endings, betrayal, defeat.",
+        "The Ten of Swords represents a painful conclusion, surrender, and loss.",
+        "It generally signifies the end of a difficult situation and the potential for new beginnings."
+      ]
+    },
+  
+    {
+      "id": 27,
+      "name": "Three of Disks",
+      "card": "/randomImages/27.jpg",
+      "info": [
+        "Key Words: Collaboration, skill, achievement.",
+        "The Three of Disks symbolizes teamwork, craftsmanship, and mastery.",
+        "It generally indicates recognition, building a strong foundation, and shared goals."
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Four of Disks",
+      "card": "/randomImages/53.jpg",
+      "info": [
+        "Key Words: Stability, control, security.",
+        "The Four of Disks represents holding onto resources, control, and power.",
+        "It generally signifies a need for stability, financial security, and planning."
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Five of Disks",
+      "card": "/randomImages/70.jpg",
+      "info": [
+        "Key Words: Hardship, isolation, poverty.",
+        "The Five of Disks symbolizes financial loss, insecurity, and struggle.",
+        "It generally indicates a period of challenges, scarcity, and seeking support."
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Six of Disks",
+      "card": "/randomImages/35.jpg",
+      "info": [
+        "Key Words: Generosity, charity, balance.",
+        "The Six of Disks represents giving, receiving, and harmony in relationships.",
+        "It generally signifies support, fairness, and mutual benefit."
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Seven of Disks",
+      "card": "/randomImages/44.jpg",
+      "info": [
+        "Key Words: Patience, investment, reward.",
+        "The Seven of Disks symbolizes waiting, assessment, and long-term planning.",
+        "It generally indicates a need for patience, reflection, and future gains."
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Eight of Disks",
+      "card": "/randomImages/32.jpg",
+      "info": [
+        "Key Words: Diligence, craftsmanship, skill.",
+        "The Eight of Disks represents hard work, dedication, and continuous improvement.",
+        "It generally signifies mastery, attention to detail, and refining one’s abilities."
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Nine of Disks",
+      "card": "/randomImages/74.jpg",
+      "info": [
+        "Key Words: Abundance, luxury, self-sufficiency.",
+        "The Nine of Disks symbolizes independence, financial success, and comfort.",
+        "It generally indicates enjoying the fruits of labor, self-reliance, and well-being."
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Ten of Disks",
+      "card": "/randomImages/64.jpg",
+      "info": [
+        "Key Words: Wealth, legacy, stability.",
+        "The Ten of Disks represents long-term success, family, and inheritance.",
+        "It generally signifies security, tradition, and passing on wealth or values."
+      ]
+    },
+  
+    {
+      "id": 43,
+      "name": "Knight of Wands",
+      "card": "/randomImages/43.jpg",
+      "info": [
+        "Key Words: Adventure, passion, action.",
+        "The Knight of Wands symbolizes enthusiasm, energy, and boldness.",
+        "It generally signifies taking risks, being assertive, and following your dreams."
+      ]
+    },
+    
+    {
+      "id": 7,
+      "name": "Knight of Cups",
+      "card": "/randomImages/7.jpg",
+      "info": [
+        "Key Words: Romance, creativity, charm.",
+        "The Knight of Cups symbolizes love, inspiration, and emotional depth.",
+        "It generally signifies pursuing dreams, artistic endeavors, and following the heart."
+      ]
+    },
+    
+    {
+      "id": 75,
+      "name": "Knight of Swords",
+      "card": "/randomImages/75.jpg",
+      "info": [
+        "Key Words: Intellect, ambition, drive.",
+        "The Knight of Swords symbolizes determination, quick thinking, and decisiveness.",
+        "It generally signifies taking swift action, problem-solving, and pursuing goals."
+      ]
+    },
+    
+    {
+      "id": 69,
+      "name": "Knight of Disks",
+      "card": "/randomImages/69.jpg",
+      "info": [
+        "Key Words: Practicality, reliability, endurance.",
+        "The Knight of Disks symbolizes patience, hard work, and commitment.",
+        "It generally signifies being grounded, building a solid foundation, and steady progress."
+      ]
+    },
+    
+
+  
+    {
+      "id": 3,
+      "name": "Queen of Wands",
+      "card": "/randomImages/3.jpg",
+      "info": [
+        "Key Words: Confidence, determination, warmth.",
+        "The Queen of Wands symbolizes leadership, creativity, and independence.",
+        "It generally signifies a strong, charismatic individual with a vibrant energy."
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Prince of Wands",
+      "card": "/randomImages/13.jpg",
+      "info": [
+        "Key Words: Enthusiasm, action, exploration.",
+        "The Prince of Wands represents a spirited and adventurous attitude.",
+        "It generally signifies movement, excitement, and a desire for new experiences."
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Princess of Wands",
+      "card": "/randomImages/30.jpg",
+      "info": [
+        "Key Words: Passion, creativity, free spirit.",
+        "The Princess of Wands symbolizes a youthful, energetic, and enthusiastic person.",
+        "It generally signifies new ideas, optimism, and the beginning of a creative journey."
+      ]
+    },
+  
+    {
+      "id": 46,
+      "name": "Queen of Cups",
+      "card": "/randomImages/46.jpg",
+      "info": [
+        "Key Words: Compassion, intuition, empathy.",
+        "The Queen of Cups symbolizes emotional depth, sensitivity, and nurturing.",
+        "It generally signifies a caring and intuitive individual who is in touch with their emotions."
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Prince of Cups",
+      "card": "/randomImages/71.jpg",
+      "info": [
+        "Key Words: Romance, imagination, idealism.",
+        "The Prince of Cups represents someone driven by their emotions and dreams.",
+        "It generally signifies artistic pursuits, romantic endeavors, and a deep connection to feelings."
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Princess of Cups",
+      "card": "/randomImages/59.jpg",
+      "info": [
+        "Key Words: Curiosity, creativity, love.",
+        "The Princess of Cups symbolizes an emotionally open, imaginative, and gentle person.",
+        "It generally signifies the beginning of an emotional or creative journey."
+      ]
+    },
+  
+    {
+      "id": 24,
+      "name": "Queen of Swords",
+      "card": "/randomImages/24.jpg",
+      "info": [
+        "Key Words: Independence, clarity, intellect.",
+        "The Queen of Swords symbolizes wisdom, honesty, and clear communication.",
+        "It generally signifies a strong, intelligent person who values truth and fairness."
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Prince of Swords",
+      "card": "/randomImages/56.jpg",
+      "info": [
+        "Key Words: Ambition, strategy, action.",
+        "The Prince of Swords represents a determined and focused individual.",
+        "It generally signifies a person who is driven to achieve their goals through intellect and determination."
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Princess of Swords",
+      "card": "/randomImages/39.jpg",
+      "info": [
+        "Key Words: Curiosity, perception, insight.",
+        "The Princess of Swords symbolizes a sharp, inquisitive mind and keen observation.",
+        "It generally signifies a person who seeks truth, knowledge, and understanding."
+      ]
+    },
+  
+    {
+      "id": 49,
+      "name": "Queen of Disks",
+      "card": "/randomImages/49.jpg",
+      "info": [
+        "Key Words: Nurturing, resourcefulness, security.",
+        "The Queen of Disks symbolizes practicality, generosity, and nurturing energy.",
+        "It generally indicates care, comfort, and creating a safe and stable environment."
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Prince of Disks",
+      "card": "/randomImages/17.jpg",
+      "info": [
+        "Key Words: Diligence, responsibility, reliability.",
+        "The Prince of Disks represents a hardworking, dependable person focused on long-term goals.",
+        "It generally signifies a steady, patient approach to work and life."
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Princecc of Disks",
+      "card": "/randomImages/62.jpg",
+      "info": [
+        "Key Words: strong willed",
+        "The Princes of Disks represents. ",
+        "It generally signifies."
+      ]
+    }
+   
+  ]
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

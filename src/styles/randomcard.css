@@ -1,0 +1,148 @@
+
+*{
+    padding: 0;
+    margin-top: 0;
+    box-sizing: border-box;
+
+}
+  body{
+   width: 100vm;
+
+  }
+  .statementBanner
+  {
+    margin-top: 2rem;
+    background: #ffffff15;
+  }
+  
+
+
+.container
+{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;  
+     top: 7em;
+   
+    height: 35em;
+    margin: auto;
+    margin-top: 4em;
+    box-shadow: 0 0 15px rgba(252, 252, 253, 0.205);
+    background: #afaff20d;
+    
+}
+@media screen and (max-width: 700px) {
+    .container
+  {  
+    margin-top: 5em;  } 
+
+  }
+
+
+ .banner
+{
+    flex-direction: row;
+    flex-wrap: nowrap;
+   font-size: 1.5em;
+}
+.name
+{
+    text-align: center;
+    font-size: 1.5em;
+    color: #fff;
+    margin-bottom: .5em;
+ 
+}
+.info
+{
+   display: flex;
+    text-align: center;
+   justify-content: center;
+    flex-wrap: wrap;
+    font-size: 1.5em;
+    color: #fff;
+    margin-bottom: .5em;
+    width: 20rem;
+}
+
+
+
+.inner
+{
+    margin-top: 5rem;
+    margin-top: -4rem;
+   filter: brightness(130%); 
+   background-image: url(/src/randomImages/default2.jpg);
+    background-size: 12.5em;
+  
+    animation: spin 2s linear 2s  ;
+    height: 18.5em;
+    width: 12.2em;
+    box-shadow: 0 0 15px 5px #99d9e9;
+    border-radius: 8px;
+    
+ } 
+
+
+.container .inner .card
+{
+   
+    height: 26em;
+    border-radius: 17px;
+    
+   
+}
+ .card:hover
+{
+   scale: 2;
+   margin-top: 11em;
+}
+
+@keyframes spin {
+    0%{
+        rotate: 0deg;
+        
+        }
+    100%{
+        rotate: 7000deg;
+       
+        }
+    
+}
+ .btn
+{
+position: relative;
+    
+    margin-top: .5em;
+
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   
+   
+
+    color: rgb(241, 181, 13);
+    width: 17rem;
+    background: #b47d06c5;
+    border-radius: 5px;
+    box-shadow: 0 0 25px 5px #fff;
+    font-size: 2rem;
+ } 
+.statement
+{
+    
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    margin-top: .3em;
+    padding: .5rem;
+    color: #fff;
+    background-color: #ffffff7a;
+    border-radius: 8px;
+    border: 2px solid #fff;
+    box-shadow: 0 0 15px 5px #ffffffb0;
+}

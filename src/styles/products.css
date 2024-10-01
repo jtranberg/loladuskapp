@@ -1,0 +1,41 @@
+.thumbnails
+{
+    display: flex;
+   
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: grid;
+    margin-top: 12rem;
+    flex-wrap: wrap;
+    gap: 2rem;
+    
+    
+}
+.thumb1   /*   image in card*/
+{
+    border: 1px solid #fff;
+    box-shadow: 0 0 15px #fff;
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    border-radius: 8px;
+}
+
+.card    /* outer container*/
+  {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #9fd6f7;
+    font-size: .7rem;
+    font-family: myFont;
+    height: auto;
+    width: auto;
+    padding: 5px;
+    background: rgba(42, 132, 206, 0.164);
+    box-shadow: 0 0 15px #fff;
+    
+  }
