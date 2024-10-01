@@ -4,9 +4,9 @@ import "../styles/style.css";
 import foreground from "../img/opening2.jpg";
 import background from "../img/openingPage1.jpg";
 import pic1 from "../img/poster.png";
- import pic2 from "../randomImages/13.jpg";
- import pic3 from "../randomImages/24.jpg";
- import pic4 from "../randomImages/default2.jpg";
+ import pic2 from "../../public/randomImages/13.jpg";
+ import pic3 from "../../public/randomImages/24.jpg";
+ import pic4 from "../../public/randomImages/default2.jpg";
 
 class Home extends React.Component {
   render() {
