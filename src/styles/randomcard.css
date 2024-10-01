@@ -24,8 +24,8 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;  
-    top: 7em;
-    height: 50vh;
+    top: 150px;
+    height: 40vh;
     margin: auto;
     margin-top: 4em;
     box-shadow: 0 0 15px rgba(252, 252, 253, 0.205);
