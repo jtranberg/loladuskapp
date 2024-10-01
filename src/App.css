@@ -1,18 +1,7 @@
 /* General App styling */
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+
 
 /* Header Styling */
 .App-header {
@@ -68,15 +57,7 @@
   z-index: 0; /* Keep images behind sections */
 }
 
-/* Add keyframe for spinning logo animation */
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+
 
 /* Wrapper styling to manage layout */
 .wrapper {
