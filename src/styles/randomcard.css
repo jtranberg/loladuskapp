@@ -74,7 +74,7 @@
     margin-top: 5rem;
     margin-top: -4rem;
    filter: brightness(130%); 
-   background-image: url(/randomImages/default2.jpg);
+   background-image: url(/public/randomImages/default2.jpg);
     background-size: 12.5em;
   
     animation: spin 2s linear 2s  ;
